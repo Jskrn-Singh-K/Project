@@ -1,0 +1,15 @@
+[
+    {
+      "name": "Mens",
+      "subcategories": ["Shirts", "Jeans", "Jackets"]
+    },
+    {
+      "name": "Womens",
+      "subcategories": ["Dresses", "Tops", "Skirts"]
+    },
+    {
+        "name": "Kids",
+        "subcategories": ["Panties", "Tops", "Caps"]
+      }
+  ]
+  
